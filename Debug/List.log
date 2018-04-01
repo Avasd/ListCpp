@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\ivan vyshniak\source\repos\list\list\main.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  List.vcxproj -> C:\Users\Ivan Vyshniak\source\repos\List\Debug\List.exe
